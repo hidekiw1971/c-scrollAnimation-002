@@ -1,10 +1,11 @@
 画像をコピペ
+<img width="727" alt="image" src="https://user-images.githubusercontent.com/99580997/228386182-343662bc-b9ab-4a4a-8dec-1bd3dc642d8d.png">
 
 # compornent（共通部品）
 - 説明
 
 # w3c html/css ck
-- confirmed or unconfirmed
+- confirmed
 
 # browser ck
 ## pc実機ck
@@ -23,7 +24,7 @@
 - https://c-0000.wtb.cfbx.jp/
 
 ## codepen url:
-- https://xxx
+- https://codepen.io/mameta00/pen/RwYOaQa
 
 ## reference site:
 - 
